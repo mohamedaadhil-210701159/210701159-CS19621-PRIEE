@@ -1,0 +1,31 @@
+# question = "Give me subsidy form link for amma two wheeler scheme"
+
+# question = "what are the reservation under amma two wheeler scheme for working women ?"
+
+# question = "Give me subsidy details for the amma two wheeler scheme"
+
+# question = "Give me loan facilities details for amma two wheeler scheme"
+
+# question = "Where to submit the application form for amma two wheeler scheme?"
+
+# question = "List the benefits of amma two wheeler scheme"
+
+# question = "Eligibility criteria for Uzhavar Padhukappu Thittam"
+
+# question = "Application process for the criteria for Uzhavar Padhukappu Thittam"
+
+# question = "List the benefits of amma two wheeler scheme?"
+
+# question = "Hi"
+
+# question = "Thank you"
+
+# question = "List the beneficiaries who can benefit under Tamil Nadu government schemes"
+
+# question = "What is the Eligibility criteria for amma two wheeler scheme?"
+
+# question = "List the benefits of uzhavar padhukaapu thittam"
+
+# response = llm.invoke("Tell me about NASA Artemis mission")
+
+# print(response.content)

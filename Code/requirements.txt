@@ -1,0 +1,8 @@
+python-dotenv
+langchain-google-genai
+langchain
+langchain-core
+langchain-pinecone
+sentence-transformer
+pinecone
+
